@@ -1,0 +1,13 @@
+.Main-container {
+  max-width: 500px;
+  margin: auto;
+}
+.List-item {
+  margin: 10px;
+}
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #f6e4e1;
+  padding: 20px;
+  text-align: center;
+}
